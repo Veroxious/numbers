@@ -1,2 +1,2 @@
 # numbers
-# test repo, has a simple addition and subtraction program
+test repo, has a simple addition and subtraction program
